@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: Postdoctoral research associate
+role: Assistant Research Scientist
 
 # Organizations/Affiliations
 organizations:
-- name: University of Washington Department of Earth and Space Sciences
-  url: www.ess.washington.edu
+- name: University of Maryland Earth System Science Interdisciplinary Center
+  url: http://essic.umd.edu/
 
 # Short bio (displayed in user profile at end of posts)
 bio: I study polar firn using field measurments and numerical models.
@@ -67,4 +67,4 @@ email: ""
 # - Visitors
 ---
 
-I am Max Stevens, a postdoctoral research associate at the University of Washington in the Department of Earth and Space Sciences. My research focuses on firn, the upper layer of glaciers and ice sheets. 
+I am Max Stevens, an Assistant Research Scientist at the University of Maryland's Earth System Science Interdisciplinary Center and the Cryosphere Lab at NASA Goddard Space Flight Center. My research focuses on firn, the upper layer of glaciers and ice sheets. 
